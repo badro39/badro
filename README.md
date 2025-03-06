@@ -9,7 +9,7 @@
 ### 📫 Connect with me:
 <p align="left">
   <a href="https://github.com/badro39/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40" style="margin-right: 10px;filter: brightness(0) invert(1);"/>
   </a>
   <a href="https://www.linkedin.com/in/djaballah-badr-bb891a21a/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" style="margin-right: 10px;"/>
