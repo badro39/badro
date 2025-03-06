@@ -6,10 +6,19 @@
 - 🌱 I’m learning **Node js & Express.js** and backend technologies
 - 💡 Looking to collaborate on **Next.js and e-commerce projects**
 
-### Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/djaballah-badr-bb891a21a/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?logo=web)](https://portfolio-badro39.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:badrdjab3@gmail.com)
+### 📫 Connect with me:
+<p align="left">
+  <a href="https://github.com/badro39/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  </a>
+  <a href="https://www.linkedin.com/in/djaballah-badr-bb891a21a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:badrdjab3@gmail.com.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+  </a>
+</p>
+
 
 ---
 
@@ -29,6 +38,6 @@
 ---
 
 ### 📊 GitHub Stats:
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DjaballahBadr&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DjaballahBadr&layout=compact&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=badro39&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=badro39&layout=compact&theme=dark)
 
